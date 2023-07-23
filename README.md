@@ -13,7 +13,9 @@ Landing page in which I practice and reinforce knowledge of html and css, implem
 
 ## Screenshots
 
-
+(https://github.com/CindyKUD/tecnocode/blob/main/mobile.png)
+(https://github.com/CindyKUD/tecnocode/blob/main/mobile%20(1).png)
+(https://github.com/CindyKUD/tecnocode/blob/main/mobile%20(2).png)
 
 
 ## FAQ
